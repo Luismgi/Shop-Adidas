@@ -40,7 +40,7 @@ header i{
  }
  .banner h2{
     width: 100%;
-    font-weight: 600;
+    font-weight: 700;
     font-size: 30px;
     margin: 10px;
  }
@@ -49,6 +49,7 @@ header i{
     margin: 0 auto;
     font-size: 25px;
     opacity: 0.7;
+    font-weight: 600;
  }
 
  .products{
@@ -70,13 +71,13 @@ header i{
    }
 
    .products h2{
-      font-weight: 500;
-      font-size: 17px;
+      font-weight: 700;
+      font-size: 18px;
       margin-bottom: 5px;
    }
    .products p{
-      font-weight: 300;
-      font-size: 15px;
+      font-weight: 400;
+      font-size: 16px;
    }
 
    .cart{
